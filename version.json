@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Gleiswerk N 0.1.1\n\n- Update-Hinweis: Gleiswerk sucht beim Start nach neuen Versionen und installiert sie auf Wunsch\n- Reiter „Anlage“: Versionsanzeige und „Nach Updates suchen“",
-  "pub_date": "2026-10-18T16:44:09Z",
+  "version": "0.2.0",
+  "notes": "Gleiswerk N 0.2.0 – Gelände und Gebäude\n\n- Neuer Reiter „Gelände“: Hügel und Täler malen (Heben, Senken, Glätten, Ebnen), Wasserflächen\n- Gleise schneiden sich automatisch ihren Weg durchs Gelände, mit wählbarer Böschung; reicht die Höhe, entsteht ein Tunnel mit Portalen\n- Dämme unter erhöhten Gleisen zuschaltbar, Gelände durchsichtig schaltbar\n- Gebäude als Klötze mit Maßen (Bahnhof, Wohnhaus, Lokschuppen, Bahnsteig …), mit Flach- oder Satteldach\n- Warnung, wenn ein Gebäude in den Lichtraum eines Gleises ragt; Gebäude im Lageplan 1:1",
+  "pub_date": "2026-10-18T16:55:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWxrTXIzVzRETjZQTkhnR0xCc3ErcE9pWEthOVpIZkpocnRHbHpiUklZVDd6OVpSWjRSNWtCanRucDJocXhzdnVmVy9QSFJYVjhRRmpXdUY4K2ZWSUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQxNjYzCWZpbGU6R2xlaXN3ZXJrIE5fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjZ1SzExd2EzZExqVm9wRFp0eHdscEdGaFYrR0lFZkNTZ0FidEhqbzJlK0VVYkVwYm5QNlJyY3hpRjNCY3M3QTUwTWNaQU1VRk9OR2xiS3BhWlIra0JnPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.1.1/Gleiswerk.N_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXJnRnkxc01uMFI3V284cFpqLzZJQ0NtYzQyclRuZS9BZFFudWxCbFFqV2ExWTU3VVlxTTlueGd1WFNMeFRuYTZTN3FYbFozNjRPcVd4bWNHcHdSdFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQyMzYwCWZpbGU6R2xlaXN3ZXJrIE5fMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCmJyUjJUT0tjbjBmQzJOamVxNFQ2UEtVbUhuWVdBeXV5TTZvQlBBZmN4UENpTWRzVVRtOGc1UThCcWlnRDhxK3hObTdyV1lTbHFGRS9HUlJPdnpjZUJ3PT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.2.0/Gleiswerk.N_0.2.0_x64-setup.exe"
     }
   }
 }
