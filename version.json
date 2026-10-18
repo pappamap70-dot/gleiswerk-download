@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "",
+  "pub_date": "2026-10-18T16:43:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWxrTXIzVzRETjZQTkhnR0xCc3ErcE9pWEthOVpIZkpocnRHbHpiUklZVDd6OVpSWjRSNWtCanRucDJocXhzdnVmVy9QSFJYVjhRRmpXdUY4K2ZWSUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQxNjYzCWZpbGU6R2xlaXN3ZXJrIE5fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjZ1SzExd2EzZExqVm9wRFp0eHdscEdGaFYrR0lFZkNTZ0FidEhqbzJlK0VVYkVwYm5QNlJyY3hpRjNCY3M3QTUwTWNaQU1VRk9OR2xiS3BhWlIra0JnPT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.1.1/Gleiswerk.N_0.1.1_x64-setup.exe"
+    }
+  }
+}
