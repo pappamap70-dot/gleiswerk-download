@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Gleiswerk N 0.4.0 – Pflanzen\n\n- Laubbäume, Nadelbäume und Büsche setzen: Klick setzt einen, Ziehen eine Reihe\n- Wald malen: gemischt und natürlich verteilt, Dichte einstellbar; Radierer\n- Bodenbelag malen: Wiese, Acker, Weg/Schotter, Fels\n- Pflanzen halten den Lichtraum der Gleise frei und stehen nicht im Wasser oder in Gebäuden\n- Stückliste der Gestaltung: Bäume nach Art und Höhenklasse, Büsche, Flächen je Belag\n- Pflanzen im Lageplan 1:1",
-  "pub_date": "2026-10-18T17:18:26Z",
+  "version": "0.5.0",
+  "notes": "Gleiswerk N 0.5.0 – Gelände aus Höhenschichten\n\n- Gelände entsteht jetzt aus Höhenschichten statt mit dem Pinsel: Umriss anklicken oder nachfahren, Höhe in mm angeben\n- Übergang wählbar: „Weich“ (gleichmäßig zwischen den Linien) oder „Stufen“ (wie gestapelte Platten)\n- Bearbeiten: Ecken ziehen, an den Kantenmitten neue Ecken einfügen, Schicht verschieben, Höhe ändern, Entf löscht\n- Höhenlinien mit Höhenangabe im 3D-Bild; Einschnitte, Tunnel, Spanten, Stützen und Pflanzen arbeiten wie bisher\n- Früher gemaltes Gelände bleibt erhalten und lässt sich per Knopf entfernen",
+  "pub_date": "2026-10-18T18:09:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXNvYWdOZlhMdDJ1VHNlQnBka2Vkb21wcXkySE9zOG5MWkhCSThQSXZqcnU0MDdkMVJXTEpnK1VIdkRHNmgxMUlLUmRYa0lzZklSYnNKaXREU3cyc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQzNzQ0CWZpbGU6R2xlaXN3ZXJrIE5fMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCjk4K1JaTVpNVkFnd1B4SGNlMFdnTm1mUzh6S256Vmw5WC9mdjZvdnBPVXFRWWFycExIV3lqQTNudGNoMnJTNmw5U2ovTVVTNll2VXp4cjZvakJva0FBPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.4.0/Gleiswerk.N_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW5GcG9vUFRVNHFGalFJeVZNZGtIUm9YVWlRaHJXTHNxeUsycS9CdE9kVUFmajdDWDZMQkljdGRVMnBzNXpRajFMNGhKUVB3cm0yMnhjNDlxZnNpU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQ2NzEwCWZpbGU6R2xlaXN3ZXJrIE5fMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCkI0VE1VSzlIcDEza2x1aGFtUE5ISXg4elJTcFhPRzIxWXFUaW9DdGpKM2lkSUJwSVdFU1FhbWNMNkhneUt5elhrRFVhRFJMUjFsbU85TEdKUTRpd0FnPT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.5.0/Gleiswerk.N_0.5.0_x64-setup.exe"
     }
   }
 }
