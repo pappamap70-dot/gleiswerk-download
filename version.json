@@ -1,7 +1,7 @@
 {
   "version": "0.1.1",
-  "notes": "",
-  "pub_date": "2026-10-18T16:43:41Z",
+  "notes": "Gleiswerk N 0.1.1\n\n- Update-Hinweis: Gleiswerk sucht beim Start nach neuen Versionen und installiert sie auf Wunsch\n- Reiter „Anlage“: Versionsanzeige und „Nach Updates suchen“",
+  "pub_date": "2026-10-18T16:44:09Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWxrTXIzVzRETjZQTkhnR0xCc3ErcE9pWEthOVpIZkpocnRHbHpiUklZVDd6OVpSWjRSNWtCanRucDJocXhzdnVmVy9QSFJYVjhRRmpXdUY4K2ZWSUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQxNjYzCWZpbGU6R2xlaXN3ZXJrIE5fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjZ1SzExd2EzZExqVm9wRFp0eHdscEdGaFYrR0lFZkNTZ0FidEhqbzJlK0VVYkVwYm5QNlJyY3hpRjNCY3M3QTUwTWNaQU1VRk9OR2xiS3BhWlIra0JnPT0K",
