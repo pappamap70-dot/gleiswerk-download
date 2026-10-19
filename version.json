@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "Gleiswerk N 0.8.0 – Gelände ziehen wie Teig\n\n- Neues Werkzeug „Ziehen“ im Gelände: Bereich mit gedrückter Maustaste umfahren (oder einmal klicken für einen runden Bereich), dann am Pfeil nach oben oder unten ziehen\n- Form „Kuppe“ (Mitte am höchsten, sanft auslaufend) oder „Plateau“ (gleich hoch, weicher Übergang außen); Höhe auch genau als Zahl\n- Tunnelportale und Einschnitte passen sich beim Ziehen sofort an; Strg+Z macht jeden Zug rückgängig\n- Ausgeblendete Bedienzeilen (z. B. „Gewählte Schicht“) werden jetzt wirklich ausgeblendet",
-  "pub_date": "2026-10-19T16:20:04Z",
+  "version": "0.8.1",
+  "notes": "Gleiswerk N 0.8.1 – Gelände ziehen wie Teig\n\n- Neues Werkzeug „Ziehen“ im Gelände: Bereich mit gedrückter Maustaste umfahren (oder einmal klicken für einen runden Bereich), dann am Pfeil nach oben oder unten ziehen\n- Form „Kuppe“ (Mitte am höchsten, sanft auslaufend) oder „Plateau“ (gleich hoch, weicher Übergang außen); Höhe auch genau als Zahl\n- Tunnelportale und Einschnitte passen sich beim Ziehen sofort an; Strg+Z macht jeden Zug rückgängig\n- „Nach Updates suchen“ zeigt das Ergebnis jetzt direkt unter dem Knopf und gibt nach spätestens 25 Sekunden Bescheid\n- Ausgeblendete Bedienzeilen (z. B. „Gewählte Schicht“) werden jetzt wirklich ausgeblendet",
+  "pub_date": "2026-10-19T16:33:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXFrR3pmQW1FNWxNWXYxSXB3bUpPWnltYXArcVpUK0lMSVcxN0ZlR3VyZGVvUEQ5YXg3SkFlRVlCbkNqcVZMZE5ZSzJ5M1AraU9GS1ErOXlRNzY2NHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI1NzgzCWZpbGU6R2xlaXN3ZXJrIE5fMC44LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOC4wClhkbXNRdklqU0xZUjFTbE96Q001c3RxRkRXcDcxaWRXQmorZERiaG4xQmRMQlNFM2ZUZlllUzJnVDB3WjYrOGZ2NGNRSEo2SFpVMjZ0eVBpRXZoekJnPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.8.0/Gleiswerk.N_0.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW11cERWQ1VBZnN0Y2I4MXpRY2VjWGlnMzdyZ3M1bTd3WnlEM1hVRWdzUXYwY3VUU2J4dm5XNzBKeFV4bjA4R2dpMWtkUGNsUkd3Z3pBd2lESnlVQ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI3NTU0CWZpbGU6R2xlaXN3ZXJrIE5fMC44LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOC4xCm9Qd2lBcXRzNnlvVElnaEFRQjEvdElUQmd6OEwxbXg2NjRzYlUvTTRiMjM5aldDNjkyN0FYTWJHSENnNEFocnQ3MWVpd1YxVlEyNFAxYUNFeUFBSUNRPT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.8.1/Gleiswerk.N_0.8.1_x64-setup.exe"
     }
   }
 }
