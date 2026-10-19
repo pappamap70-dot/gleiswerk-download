@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Gleiswerk N 0.6.0 – Gelände verbessert\n\n- Übergang je Höhenschicht: Stufe oder weich, für jede Schicht einzeln\n- Pinsel zum Nacharbeiten wieder da (Heben, Senken, Glätten, Ebnen) – Wirkung je Strecke statt je Mausbewegung, kein Wegrutschen mehr\n- Glätten und Ebnen wirken auf das ganze Gelände; Ebnen bringt auf die Höhe, wo der Strich beginnt\n- Wasser übernimmt die Geländehöhe am Ansatzpunkt – auch auf Plateaus\n- Tunnel: Gelände über dem Tunnel bleibt stehen, Portale mit Stirnwand und dunkler Öffnung; Hinweis, wenn ein Hügel für einen Tunnel zu niedrig ist",
-  "pub_date": "2026-10-19T06:00:12Z",
+  "version": "0.7.0",
+  "notes": "Gleiswerk N 0.7.0 – STL-Gebäude, Wasser nachbearbeiten, A3-Spanten\n\n- Gebäude aus STL-Dateien (z. B. Druckvorlagen): laden, Maßstab wählen, kippen, frei färben; große Modelle werden automatisch vereinfacht und in der Plan-Datei mitgespeichert\n- Wasser: ein Strich auf vorhandenem Wasser malt auf dessen Höhe weiter; der Spiegel eines Gewässers lässt sich nachträglich ändern\n- Ebnen nimmt die Höhe des Geländes selbst (nicht die eines Einschnitts am Gleis)\n- Plattenformat wählbar (A4, A3, A2 oder eigenes Maß), Standard jetzt A3 – gilt für Stützen, Trasse und Spanten\n- Geteilte Spanten bekommen Puzzle-Verbindungen am Stoß",
+  "pub_date": "2026-10-19T14:13:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXNnQUlDM1kxZ0tWY0lpUFhmbm93MFRIcStyQ1Q1MjQrUExwRGc1amFRYjNXaVNGbUJpeHVWTTVjRzVFZlBTOXJwcWFkeUZBVXcvcTA1OUNJRFlETEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg5NDM1CWZpbGU6R2xlaXN3ZXJrIE5fMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCkFqbWc1am9XYWVxS2RxQnVHYkY1Tjdsa3FVRFBTclFUY2luY0N4VkdFaFNuVmJqankvdDZoVlZJbWVVMnQzYjVVMGJDSHNmZkdKMW1HbVZBK1N0ZUFRPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.6.0/Gleiswerk.N_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXBNeUlMUGVZZUp5QWhBbkFuM2JCZ3lJZ1VDOVFRaTI1bExpVnFDd09NaGwzeUVUcmJidnMzc1Bka3dQQXdEbVg2aEt0VnBiem5LaHhWVGFsbDhkRHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDE5MTI3CWZpbGU6R2xlaXN3ZXJrIE5fMC43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4wCmVQVjRZNTJQSGpRS05qcUJPazAvSDFyNmNpMzE0WC9TWDEwclZsNFROUWVMUUVDNnFiWGdnajk0K3FhWEYzdldVT2U0VGVCVFhSRDhpL09iQlBIM0NnPT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.7.0/Gleiswerk.N_0.7.0_x64-setup.exe"
     }
   }
 }
