@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "Gleiswerk N 0.9.0 – Gelände ziehen in X, Y und Z\n\n- Werkzeug „Ziehen“ mit Griff aus drei Pfeilen: Z (blau) hebt oder drückt, X (rot) und Y (grün) schieben das Gelände seitlich, die weiße Kugel schiebt frei in der Ebene\n- Seitliches Schieben nimmt die Form mit – auch Hügel aus Höhenschichten lassen sich so verschieben oder zur Seite neigen\n- „Kuppe“ bewegt die Mitte am stärksten (wie Teig), „Plateau“ den ganzen Bereich gleich\n- Genaue Werte für X, Y und Z eintragbar; große Verschiebungen werden automatisch in sichere Schritte zerlegt",
-  "pub_date": "2026-10-21T16:19:28Z",
+  "version": "0.9.1",
+  "notes": "Gleiswerk N 0.9.1 – Bergwald über Tunneln\n\n- Bäume oben auf einem Berg gelten nicht mehr als „am Gleis“, wenn das Gleis darunter im Tunnel liegt – der Knopf „Pflanzen am Gleis entfernen“ lässt den Bergwald jetzt stehen",
+  "pub_date": "2026-10-24T17:43:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWdTOU1nVWpZWnlVbmswN3drQXQ1c1pPbVUyWkhJM1VseUNRK3NmRXZnbnRNajRNMDdGRldBOVkzaDdvSWxiYjVucVJPYStQSk5UTXg4bnNMZ0ZmT3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTk5NTMxCWZpbGU6R2xlaXN3ZXJrIE5fMC45LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4wCmU0VUVOYkwxcm43TUVsR2N0VUE0RUM0Qnh4M3g4blI3Y0xITHE1cGcyWWZQTzYrdzBLL0NRV1FRNGFCd3g1UDVGamVSMnM1Ym5mSGx2ZkxFQjJFMUFBPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.9.0/Gleiswerk.N_0.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWt2T1ZKQmUxUldIallFTHg1VnF4dUE3a2NrUmltckRSN05pbFFDdkQzVXVoZDhqTXUrZi9na25zRFJoNG5GZmh2eTB3S3pFNGRyUS9URXZhVHlkdUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYzNzU4CWZpbGU6R2xlaXN3ZXJrIE5fMC45LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4xCmpLVzc4dFBIdFVWR1BJbEVhZFlyT0FzcmtZK00vMjRMZmJvRmM2ODdEdGJONzh3aDk0RStOWEkzQm1CZy9HZ2JDejZBdzNCK285NTFsc3VETmtackRnPT0K",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.9.1/Gleiswerk.N_0.9.1_x64-setup.exe"
     }
   }
 }
