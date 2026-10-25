@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "Gleiswerk N 0.9.1 – Bergwald über Tunneln\n\n- Bäume oben auf einem Berg gelten nicht mehr als „am Gleis“, wenn das Gleis darunter im Tunnel liegt – der Knopf „Pflanzen am Gleis entfernen“ lässt den Bergwald jetzt stehen",
-  "pub_date": "2026-10-24T17:43:29Z",
+  "version": "0.10.0",
+  "notes": "Gleiswerk N 0.10.0 – Berge aus Styrodur-Schichten\n\n- Neu im Spantenbau: „Styrodur-Schichten“ – das Gelände in Platten gleicher Dicke zerlegt (z. B. 50 mm), je Schicht eine Schablone 1:1 als SVG\n- Tunnelkanäle mit Lichtraum ausgespart; liegt die Trasse in einer Platte, ist die Nut eingezeichnet\n- Abnehmbare Haube ab einer wählbaren Schicht: darunter gehen die Kanäle als Schacht bis zur Haube, so sind nach dem Abheben alle Gleise im Berg erreichbar\n- Gestrichelte Oberkante als Schnitzhilfe, Dübelpunkte zum genauen Aufsetzen, zu große Schichten werden passend zur Plattengröße geteilt",
+  "pub_date": "2026-10-25T11:49:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWt2T1ZKQmUxUldIallFTHg1VnF4dUE3a2NrUmltckRSN05pbFFDdkQzVXVoZDhqTXUrZi9na25zRFJoNG5GZmh2eTB3S3pFNGRyUS9URXZhVHlkdUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYzNzU4CWZpbGU6R2xlaXN3ZXJrIE5fMC45LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4xCmpLVzc4dFBIdFVWR1BJbEVhZFlyT0FzcmtZK00vMjRMZmJvRmM2ODdEdGJONzh3aDk0RStOWEkzQm1CZy9HZ2JDejZBdzNCK285NTFsc3VETmtackRnPT0K",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.9.1/Gleiswerk.N_0.9.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW9RNzhrVmdNd2g2YXl2WGo3MnBDcG1TRGZZMGRsTVBXNVE0NGZGN20ydFU1VmgwaHVtMzNKVm9iVjdROUNOUVgzOXVHSkNNY2JKcENsYncycFpFL3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI4OTI5CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKaitaTzZhYytyYkRzeGttb0J2aE5COGIyRG96Z0I1azdsUTlvajIwN1NyblVCOWRMOWRGNExzM1hWNHJwK01jdFovMHlVclhDd2VxQ0UzRkFHTDVDQnc9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.10.0/Gleiswerk.N_0.10.0_x64-setup.exe"
     }
   }
 }
