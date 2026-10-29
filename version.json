@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "Gleiswerk N 0.10.0 – Berge aus Styrodur-Schichten\n\n- Neu im Spantenbau: „Styrodur-Schichten“ – das Gelände in Platten gleicher Dicke zerlegt (z. B. 50 mm), je Schicht eine Schablone 1:1 als SVG\n- Tunnelkanäle mit Lichtraum ausgespart; liegt die Trasse in einer Platte, ist die Nut eingezeichnet\n- Abnehmbare Haube ab einer wählbaren Schicht: darunter gehen die Kanäle als Schacht bis zur Haube, so sind nach dem Abheben alle Gleise im Berg erreichbar\n- Gestrichelte Oberkante als Schnitzhilfe, Dübelpunkte zum genauen Aufsetzen, zu große Schichten werden passend zur Plattengröße geteilt",
-  "pub_date": "2026-10-25T11:49:52Z",
+  "version": "0.11.0",
+  "notes": "Gleiswerk N 0.11.0 – Brücken aus eigenen Modellen\n\n- Gebäude und STL-Modelle lassen sich als „Brücke“ markieren: Gleise dürfen dann darauf und darunter verlaufen, ohne als Konflikt gemeldet zu werden\n- Liegt ein Gleis oben auf einer Brücke, entfallen dort die Stützen automatisch; Überführungen auf der Brücke gelten als getragen",
+  "pub_date": "2026-10-29T19:46:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW9RNzhrVmdNd2g2YXl2WGo3MnBDcG1TRGZZMGRsTVBXNVE0NGZGN20ydFU1VmgwaHVtMzNKVm9iVjdROUNOUVgzOXVHSkNNY2JKcENsYncycFpFL3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI4OTI5CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKaitaTzZhYytyYkRzeGttb0J2aE5COGIyRG96Z0I1azdsUTlvajIwN1NyblVCOWRMOWRGNExzM1hWNHJwK01jdFovMHlVclhDd2VxQ0UzRkFHTDVDQnc9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.10.0/Gleiswerk.N_0.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWdBb1R0TnRyMmlQbkNxckhaUFRSdkRXUGhpYWw0Qm5XN0JNZDVvQlpzd2tWSzVHeVFlVExUaW9wYkdEZERGZWZ0VE1ZSG5MK2M3QmhuRWo2SDlCOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAxNjcwCWZpbGU6R2xlaXN3ZXJrIE5fMC4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjAKc1d1T1VZak1LSTNWRGpaeUFNc09PSk14Q3Y2MkNQOVhmb2poYUJZUXl5L1RIV1pmZVVHVDVpNEZqY2JaMHRONXl3SDRaQXFGLzNQOVhUS3c4M0loQ0E9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.11.0/Gleiswerk.N_0.11.0_x64-setup.exe"
     }
   }
 }
