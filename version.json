@@ -1,11 +1,11 @@
 {
-  "version": "0.12.1",
-  "notes": "Gleiswerk N 0.12.1 – gedruckte Stützen an jedem Trassenstoß\n\n- Gedruckte Stützen: An jedem Stoß zwischen zwei Trassenteilen steht jetzt sicher eine Stütze. Bisher konnte sie an kurzen Ausgleichsgleisen bis zu 30 mm daneben landen\n- Fällt eine Stütze auf der Brücke weg oder wird sie von Hand entfernt, rückt keine Nachbarstütze mehr ungewollt nach bzw. fehlt keine mehr daneben",
-  "pub_date": "2026-11-06T16:31:11Z",
+  "version": "0.12.2",
+  "notes": "Gleiswerk N 0.12.2 – Stützen ab Grundplatte\n\n- Neuer Schalter unter Werkstatt → Trasse & Stützen: „Stützen ab Grundplatte (Gelände kommt später)“. Für den Bau, bei dem zuerst die Strecke steht und die Landschaft danach kommt: jede Strecke über der Platte bekommt Stützen, auch im späteren Berg und Tunnel\n- Gedruckte Stützen: an jedem Stoß zwischen zwei Trassenteilen steht sicher eine Stütze",
+  "pub_date": "2026-11-06T16:45:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXBoU04rMHlYek00YWYyRjdnanppdzBWM1dKbjRNdW1WU0lIN3I1Tm1WQTViTHFqNzhCQVRsUVAyMVluVUt3NlVOQWczYzRjNzFtOCtyUFduMU16RndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgyMzY1CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjEKemlGNlNWZGFKVnBhL3V4QmFWdUFMbUdCK3gzSkU4OHd5eXRKM2phbWFZL1hESjBSY2dQU0crT09wcFRzeGdOY0JpalJXY09BaWdxVUo2OXhvQTVrQ2c9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.12.1/Gleiswerk.N_0.12.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXJuNU5zNERZTHJmVVh3c1QxWW5aZTI3bElxMWdsSXU3MVF0STB6SGY5Rlo0bXNjc1o0VE1ySWY4TU5DSjYycUxBMnZDaUs3VXdpQkJmVzlhM2hhOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgzMzY5CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjIKajVQUWRTYWNpVzVQZW1hOU1ZNDJ4cjNaYnVrWVNSbzMvSUNORk9ydnNXVE1yellDd1N2dUlFVjJPREFjY2xIdmE5M21iMDdkWENKcnAvbTk3ZjFOQ1E9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.12.2/Gleiswerk.N_0.12.2_x64-setup.exe"
     }
   }
 }
