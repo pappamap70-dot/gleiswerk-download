@@ -1,11 +1,11 @@
 {
-  "version": "0.11.0",
-  "notes": "Gleiswerk N 0.11.0 – Brücken aus eigenen Modellen\n\n- Gebäude und STL-Modelle lassen sich als „Brücke“ markieren: Gleise dürfen dann darauf und darunter verlaufen, ohne als Konflikt gemeldet zu werden\n- Liegt ein Gleis oben auf einer Brücke, entfallen dort die Stützen automatisch; Überführungen auf der Brücke gelten als getragen",
-  "pub_date": "2026-10-29T19:46:16Z",
+  "version": "0.12.0",
+  "notes": "Gleiswerk N 0.12.0 – Stützen zum Drucken, eigene Plan-Dateien\n\n- Pläne werden als „.gleisplan“ gespeichert; ein Doppelklick auf so eine Datei öffnet sie in Gleiswerk. Alte .json-Pläne lassen sich weiter öffnen, „Speichern unter“ legt sie als .gleisplan ab\n- Unter Werkstatt → Trasse & Stützen: „Stützen drucken (PLA) statt lasern“. Eine Stütze steht an jedem Gleisstoß, dazwischen nur, wenn der eingestellte Abstand überschritten wird; über oder neben einem tieferen Gleis rückt sie an den Rand der freien Strecke\n- Jede Stütze hat oben zwei Zapfen (Ø und Höhe einstellbar), schräg versetzt und unterschiedlich dick, damit sie nur richtig herum passt; die Oberseite folgt der Steigung\n- „Stützen (STL)“ liefert alle Stützen nach Nummer geordnet in einer Datei; die Trasse (SVG) bekommt die passenden Bohrungen, der Lageplan zeigt Lage und Zapfen",
+  "pub_date": "2026-11-06T15:48:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWdBb1R0TnRyMmlQbkNxckhaUFRSdkRXUGhpYWw0Qm5XN0JNZDVvQlpzd2tWSzVHeVFlVExUaW9wYkdEZERGZWZ0VE1ZSG5MK2M3QmhuRWo2SDlCOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAxNjcwCWZpbGU6R2xlaXN3ZXJrIE5fMC4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjAKc1d1T1VZak1LSTNWRGpaeUFNc09PSk14Q3Y2MkNQOVhmb2poYUJZUXl5L1RIV1pmZVVHVDVpNEZqY2JaMHRONXl3SDRaQXFGLzNQOVhUS3c4M0loQ0E9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.11.0/Gleiswerk.N_0.11.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW00b3laYW9maU53UkI4UnBqWTNGc011SUdXcWZkTmRpbXR5dytOZDhPVkNGOFNnNGVuY3RaT2hOalVCY3MxOXRvYk0zSnU4NkdMVzdIYjgrclQ4VHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc5OTY4CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjAKcGY1TXFGZmU5UUduRlFKc1BuT25PQ2c0azRsVHBFS01reWVlN2hPKzFPWDFBMjNuQ29zSFBrY1d1bTUxRzRmQ3pJSkRMU05OUG5vd1h2NFRCaUZUQUE9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.12.0/Gleiswerk.N_0.12.0_x64-setup.exe"
     }
   }
 }
