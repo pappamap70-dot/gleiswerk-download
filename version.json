@@ -1,11 +1,11 @@
 {
-  "version": "0.12.3",
-  "notes": "Gleiswerk N 0.12.3 – Brücken bleiben bei Dämmen stehen\n\n- „Dämme unter erhöhten Gleisen“ hob als Brücke markierte Modelle auf den Damm an. Im Grundriss einer Brücke wird jetzt kein Damm mehr aufgeschüttet, und Gleise auf der Brücke schütten keinen auf",
-  "pub_date": "2026-11-06T16:58:15Z",
+  "version": "0.13.0",
+  "notes": "Gleiswerk N 0.13.0 – Kreuzungsgleise\n\n- Neu in der Gleisliste bei den Weichen: Kreuzung 9161 (30°, 115 mm) sowie 9162 und 9163 (15°, 111 mm, links bzw. rechts kreuzend). Damit lassen sich Achten flach bauen, ohne Über- und Unterführung.\n- Eine Kreuzung liegt immer eben. Unter „Am Vorgänger angesetzt mit“ wählt man, mit welchem ihrer vier Enden sie am Vorgänger hängt; „180° drehen“ tauscht Anfang und Ende des Strangs.\n- Probefahrt, Lichtraumprüfung, Gegenbögen, Höhenausgleich, Trasse und Stützen kennen die Kreuzung. In der Trasse wird sie ein eigenes Teil aus beiden Strängen.",
+  "pub_date": "2026-11-07T14:55:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UXVQdkVjZDVaSHRzcUxkMGk3Q3A0SXhaU3J3aS9qWlV4MExscytiNHg0NWlxK1M0NkNBa1NyMHNUK0NuV1YxYlFHK2ExMFpCTldQalkrTFJPMlhiYUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg0MTQ0CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjMKTHhPMmNsM0ZQQUhBaUUrNXJBUjF2Ky9BOWVHR1hEOG03czNUWW91Q3l1emx4U3BSVzNaZ0Z5UmJ3cWJ4NklZRmsxYlkwTm53RFFZSHNhWVQ4eFJUQlE9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.12.3/Gleiswerk.N_0.12.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWpvNWo4UEJkYU43Ny9VQTlMOUUrUzBodXp6VXlsamROL1NNUTFkaEs1UDlZNWdFcHRKKzZkVzhrK0dYTlhFTjZocDVwTTBDVFZkdU4weWUvM2hOYmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYzMjE2CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEzLjAKcmN2SEtLSFN4c2RYSFE4ZE1IWWtLL2oxR0dmZnhQWTUwV3NOSHdOb1V4eHE2dFZiQldMcWdXeTJkcUx4dzBiU3ZRTW5sSG1oeC94N1ZVbWVMNXhuRFE9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.13.0/Gleiswerk.N_0.13.0_x64-setup.exe"
     }
   }
 }
