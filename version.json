@@ -1,11 +1,11 @@
 {
-  "version": "0.15.0",
-  "notes": "Gleiswerk N 0.15.0 – Trasse plattenweise, ebene Strecken auf Styrodur\n\n- Die Trasse wird so geteilt, dass jedes Teil den Zuschnitt (z. B. A3) ausnutzt, auch mitten in einem Gleis. Das ergibt deutlich weniger Teile; gedruckte Stützen stehen an jedem dieser Stöße.\n- Die Teile werden eng auf die Bögen gelegt: Bögen liegen ineinander statt nur Rechteck an Rechteck. Das spart Platten.\n- Neu in Werkstatt › Trasse & Stützen: „ebene Strecken auf Styrodur statt Stützen“. Wo zusammenhängende Gleise überall gleich hoch liegen, trägt ein Styrodur-Streifen die Trasse. Die Höhe setzt sich aus deinen Plattenstärken zusammen, die Schablonen gibt es als SVG.\n- Auf Brückenmodellen mit Geländer erkennt die App das Gleis jetzt richtig und plant darunter keine Stützen mehr.\n- Pläne mit STL-Modellen zeigen nach dem Öffnen kein „*“ mehr, solange nichts geändert wurde.",
-  "pub_date": "2026-11-21T15:59:58Z",
+  "version": "0.15.1",
+  "notes": "Gleiswerk N 0.15.1 – Laserfläche\n\n- Neu in Werkstatt › Trasse & Stützen: „Laserfläche“ (Vorgabe 380 × 380 mm). Ist der Bogen größer als der Arbeitsbereich des Lasers, werden Trasse, Stützen und Spanten nur auf den Teil geplant, den der Laser erreicht — bei A3 sind das 380 × 297 mm. So ragt in der Laser-Software nichts mehr über den Schnittbereich hinaus.\n- Die SVG ist so groß wie diese Fläche; die Meldung in der Werkstatt nennt Bogen, Laserfläche und schneidbares Maß.",
+  "pub_date": "2026-11-21T18:41:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWc5WkJWQzdNYkIzM0s2U2NTL0o0TDExaDZJQzJxais1RU1udjlSaVNUa1Y0NE9ZYkpMMUxLWjZjM3BBMzkzS0F5U1RrOWlTWUhPT2tGbE41OE1DWndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc2NzA5CWZpbGU6R2xlaXN3ZXJrIE5fMC4xNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE1LjAKVWpjbzNkdWRnUmYrSVJVZHBDN0JYSS9DbzhPbHNzNlVENU9ZTnRYV2tTUXZEN0cxNFAvZ0VQNGZ1NFpTTDAvd2ZTelRIWS9TYUtyUDFJbjkvNEJ4RHc9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.15.0/Gleiswerk.N_0.15.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UW9zU1pBeFBGRkl5dGpXcDg2Z2RtOERYNGMvOFFvOSt2TXdpWEIvTk81ZnV0dytiSGx0NmZLUUhyTStMQys2RlBsM29WM1VkVGlXRmErYnd4QXRXK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2NDE3CWZpbGU6R2xlaXN3ZXJrIE5fMC4xNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE1LjEKaUtUOEFFWFJtTHJnTjVVRm5HY2xyNFZoQmpNNXRVdHgxaWZzbjliS1VYUFRtdDQwUFpobkN3cUs0Q2ltanBNV25tanJPQlNHMmsvZE1yOWNidGlSQ3c9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.15.1/Gleiswerk.N_0.15.1_x64-setup.exe"
     }
   }
 }
