@@ -1,11 +1,11 @@
 {
-  "version": "0.13.0",
-  "notes": "Gleiswerk N 0.13.0 – Kreuzungsgleise\n\n- Neu in der Gleisliste bei den Weichen: Kreuzung 9161 (30°, 115 mm) sowie 9162 und 9163 (15°, 111 mm, links bzw. rechts kreuzend). Damit lassen sich Achten flach bauen, ohne Über- und Unterführung.\n- Eine Kreuzung liegt immer eben. Unter „Am Vorgänger angesetzt mit“ wählt man, mit welchem ihrer vier Enden sie am Vorgänger hängt; „180° drehen“ tauscht Anfang und Ende des Strangs.\n- Probefahrt, Lichtraumprüfung, Gegenbögen, Höhenausgleich, Trasse und Stützen kennen die Kreuzung. In der Trasse wird sie ein eigenes Teil aus beiden Strängen.",
-  "pub_date": "2026-11-07T14:55:29Z",
+  "version": "0.14.0",
+  "notes": "Gleiswerk N 0.14.0 – die Plan-Datei wird nur noch beim Speichern geschrieben\n\n- Bisher hat die App jede Änderung sofort in die geöffnete Datei geschrieben, auch „Rückgängig“ oder einen anderen geladenen Stand. So konnte eine Fassung verloren gehen.\n- Jetzt wird die Datei nur noch beim Speichern geschrieben: Strg+S oder der Knopf „Speichern“.\n- Ungespeicherte Änderungen erkennst du am „*“ in der Titelleiste. Beim Schließen, bei „Neu“ und bei „Öffnen“ fragt die App: Speichern, Nicht speichern oder Abbrechen.\n- Ungespeicherte Änderungen landen laufend in einer Arbeitskopie. Endet die App ohne Speichern, etwa durch einen Absturz oder ein Update, sind sie beim nächsten Start wieder da. „Rückgängig“ zeigt dann den Stand der Datei.\n- Die Sicherungskopien alle 10 Minuten bleiben wie bisher.",
+  "pub_date": "2026-11-21T13:59:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWpvNWo4UEJkYU43Ny9VQTlMOUUrUzBodXp6VXlsamROL1NNUTFkaEs1UDlZNWdFcHRKKzZkVzhrK0dYTlhFTjZocDVwTTBDVFZkdU4weWUvM2hOYmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYzMjE2CWZpbGU6R2xlaXN3ZXJrIE5fMC4xMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEzLjAKcmN2SEtLSFN4c2RYSFE4ZE1IWWtLL2oxR0dmZnhQWTUwV3NOSHdOb1V4eHE2dFZiQldMcWdXeTJkcUx4dzBiU3ZRTW5sSG1oeC94N1ZVbWVMNXhuRFE9PQo=",
-      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.13.0/Gleiswerk.N_0.13.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXBWWUR6d2t2UWlSZDIxcnNqMkVZRW5pMWpVZmsvZjlhUFhjTkdjODI3cnFFSW0zRFRZUmVJVFBUUGxuaTdUSUUwSE1KOEcyYWhaQWY5MjdDUHRwOGZyRTVIUEJ1L0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5Mzk0CWZpbGU6R2xlaXN3ZXJrIE5fMC4xNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE0LjAKVVVzSnpGWUp0em43a25WUno2R2RrUFJPMW83dUdoWGMvZHJVWmxjdUl2VHZWcXFndG5WZms1OFFQUU9UYy9Kdms1YUtVbmVuNG5wc1RkZnZ1OHczQ0E9PQo=",
+      "url": "https://github.com/pappamap70-dot/gleiswerk-download/releases/download/v0.14.0/Gleiswerk.N_0.14.0_x64-setup.exe"
     }
   }
 }
